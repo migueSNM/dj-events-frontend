@@ -1,3 +1,4 @@
+/* eslint-disable import/no-anonymous-default-export */
 import cookie from 'cookie'
 import { API_URL } from "@/config/index"
 
